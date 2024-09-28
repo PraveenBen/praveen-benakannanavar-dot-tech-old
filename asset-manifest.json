@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec79e435.css",
+    "main.js": "/static/js/main.75b1081f.js",
+    "static/js/453.a421cb2a.chunk.js": "/static/js/453.a421cb2a.chunk.js",
+    "static/media/SuryAI.png": "/static/media/SuryAI.1edba70b3666c96e4d32.png",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Praveen-T_Resume.pdf": "/static/media/Praveen-T_Resume.31d13641e0a2a8e0d0e4.pdf",
+    "static/media/index.cjs": "/static/media/index.a02930182e698c6507fb.cjs",
+    "static/media/chroma.cjs": "/static/media/chroma.b8e430d84d3fe8a09c41.cjs",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.ec79e435.css.map": "/static/css/main.ec79e435.css.map",
+    "main.75b1081f.js.map": "/static/js/main.75b1081f.js.map",
+    "453.a421cb2a.chunk.js.map": "/static/js/453.a421cb2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec79e435.css",
+    "static/js/main.75b1081f.js"
+  ]
+}
