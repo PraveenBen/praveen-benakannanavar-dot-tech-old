@@ -1,0 +1,11 @@
+npm install react-dom
+npm install react-icons
+npm install react-router-dom
+npm install react-pdf
+npm install react-bootstrap
+npm install react-tsparticles
+npm install typwriter-effect
+npm install typewriter-effect
+npm install react-parallax-tilt
+npm install react-github-calendar
+npm install bootstrap
